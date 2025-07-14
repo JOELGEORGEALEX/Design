@@ -9,7 +9,8 @@
 ## 🎨 Render Images
 
 ### Render Image 2
-![Render Image 2](/images/im1.jpg)
+![Render Image 2][![Furniture Design - Image 1](images/im1.jpg)](images/im1.jpg)
+
 
 ### Render Image 3
 ![Render Image 3](im3.jpg)
