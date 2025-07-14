@@ -9,7 +9,7 @@
 
 ### iMAGES 
 ![Render Image 2](/images/im1.jpg)
-![original](/images/im2.jpg)
-![original](/images/im3.jpg)
+![original](/images/im2.jpeg)
+![original](/images/im3.jpeg)
 =======
 
