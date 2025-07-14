@@ -1,6 +1,9 @@
-# Project Showcase
+# Card Board Furniture
 
-## 🪑 Furniture Designs
+## 🪑 Furniture with 5mm 
+* Cardboard Furniture made out of 5PLY corrugated sheet
+* ZUND flat bed cutter used for fabrication
+
 
 ![Furniture Design - Image 1](im1.jpg)
 
@@ -8,12 +11,5 @@
 
 ## 🎨 Render Images
 
-### Render Image 2
-![Render Image 2][![Furniture Design - Image 1](images/im1.jpg)](images/im1.jpg)
-
-
-### Render Image 3
-![Render Image 3](im3.jpg)
-
-### Render Image 4
-![Render Image 4](im4.jpg)
+### Render Image 1
+![Render Image 2](/images/im1.jpg)
