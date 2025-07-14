@@ -8,15 +8,14 @@
 
 ## 🎨 The SWAN
 
-<<<<<<< HEAD
 ### Image 1
 ![Render Image 2](/images/swan1.jpg)
 =======
 ### Image 2
 ![Render Image 2](/images/swan2.jpeg)
 
-### =mage 3
-![Render Image 3](/images/swan3.jpegswan3.jpeg)
+### Image 3
+![Render Image 3](/images/swan3.jpeg)
 
 
 ## 🦢 Swan  Video
